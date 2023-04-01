@@ -19,7 +19,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Secure Auth3', // Usually your GitHub org/user name.
+  organizationName: 'secureauth3', // Usually your GitHub org/user name.
   projectName: 'secure-auth3-docs', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: 'gh-pages',

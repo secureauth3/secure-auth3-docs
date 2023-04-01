@@ -22,6 +22,7 @@ const config = {
   organizationName: 'Secure Auth3', // Usually your GitHub org/user name.
   projectName: 'secure-auth3-docs', // Usually your repo name.
   trailingSlash: false,
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

@@ -11,7 +11,7 @@ export default function About(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`About Us`}
+      title={`About`}
       description={`The freedom to choose and challenge the status quo is essential for a life of adventure and purpose. When individuals dare to step outside their comfort zones and take risks, they can discover new opportunities for growth and transformation.`}>
       <Head>
         <meta name="keywords" content="password-less, auth"/>

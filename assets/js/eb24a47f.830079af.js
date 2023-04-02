@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksecure_auth3_docs=self.webpackChunksecure_auth3_docs||[]).push([[715],{1089:(e,t,n)=>{n.r(t),n.d(t,{default:()=>a});var u=n(7294),c=n(2263),l=n(7676);const s={i8:"1.0.1"};function a(){const{siteConfig:e}=(0,c.Z)();return u.createElement(l.Z,null,u.createElement("main",null,u.createElement("h1",null,"v",s.i8)))}}}]);
